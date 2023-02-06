@@ -1,3 +1,5 @@
+install python from https://www.python.org/downloads/ to run the code
+
 Add a detailed README file for each project that you have pushed to GitHub. README files should contain the following:
 ○ The project name.
 
